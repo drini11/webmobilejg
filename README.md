@@ -14,15 +14,14 @@ Exemplo:
 
 ## 📌 Título do Projeto
 <!-- Insira aqui o título do projeto extensionista -->
-Exemplo: "Aplicativo de Apoio à Saúde Comunitária"
+
 
 ---
 
 ## 👥 Integrantes do Grupo
 <!-- Liste todos os integrantes do grupo com nome completo e RA -->
-- Nome Completo (RA)
-- Nome Completo (RA)
-- Nome Completo (RA)
+- Giovanna Harumi Masuda Taketani (RA: 10737162)
+- João Pedro Pizarro Buldrini (RA: 10437056)
 
 ---
 
