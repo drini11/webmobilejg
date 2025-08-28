@@ -32,7 +32,7 @@ O projeto tem como objetivo desenvolver uma plataforma digital que disponibilize
 ## 🖼️ Protótipo Inicial
 <!-- Inclua imagens ou links das telas, fluxos ou mockups do protótipo inicial -->
 Exemplo de inclusão de imagem:  
-![Protótipo da Tela Inicial](imagens/prototipo-inicial.png)
+![Protótipo da Tela Inicial](imagens/prototipo-inicial.jpeg)
 
 ---
 
