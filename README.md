@@ -51,4 +51,4 @@ O projeto busca atender a necessidade de um site de e-commerce para impulsionar 
 
 ## 💻 Explicação do Código (Tutorial)
 <!-- Documente o funcionamento do código desenvolvido, passo a passo, como em um tutorial -->
-Explique sobre o desenvolvimento técnico do projeto dentro das solicitações da proposta
+Tecnologias utilizadas até o momento: HTML5, CCS3, Javascript
